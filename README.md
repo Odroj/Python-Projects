@@ -1,2 +1,2 @@
 # Python-Projects
-Some small projects in python 
+Some small projects in Python 
